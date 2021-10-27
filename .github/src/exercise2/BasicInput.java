@@ -1,8 +1,5 @@
 package exercise2;
-<<<<<<< HEAD:exercise2/scr/BasicInput.java
 
-=======
->>>>>>> 559263f24abc6cf6b1009dd3b22819bee71113b8:exercise2/BasicInput.java
 import java.util.Scanner;
 
 public class BasicInput {

@@ -1,18 +1,20 @@
 package exercise2;
 
-
 import java.util.Scanner;
 
-public class BasicInput {
+public class EvenOrOddNumber {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
         int number = input.nextInt();
-        double squareRoot = Math.sqrt(number);
 
-        System.out.println("You entered: " + number + ". Its square root is " + squareRoot);
+        if (number % 2 == 0) {
+         System.out.println("Number is even");  
+        }else {
+         System.out.println("Number is odd");
+         }
     }
 
 }

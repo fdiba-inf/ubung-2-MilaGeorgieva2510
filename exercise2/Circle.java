@@ -1,4 +1,5 @@
 package exercise2;
+
 import java.util.Scanner;
 
 public class Circle {
@@ -16,3 +17,4 @@ public class Circle {
    }
 
 }
+                

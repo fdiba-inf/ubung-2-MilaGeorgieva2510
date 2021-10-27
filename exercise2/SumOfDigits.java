@@ -1,4 +1,5 @@
 package exercise2;
+
 import java.util.Scanner;
 
 public class SumOfDigits {
@@ -21,3 +22,5 @@ public class SumOfDigits {
          System.out.println("Sum of digits: " + sum);
   }
 }  
+
+    

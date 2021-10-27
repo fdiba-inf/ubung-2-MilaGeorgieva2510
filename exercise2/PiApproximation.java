@@ -1,4 +1,5 @@
 package exercise2;
+
 import java.util.Scanner;
 
 public class PiApproximation {
@@ -9,4 +10,4 @@ public class PiApproximation {
    }
 
 }  
-       
+  
